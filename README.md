@@ -97,6 +97,8 @@ This improves maintainability, readability, and scalability.
   <p>The project follows a modular architecture, where each component is isolated into its own Python module. 
   This improves maintainability, readability, and scalability.</p>
 
+<img width="1015" height="437" alt="3" src="https://github.com/user-attachments/assets/a228bdaa-9fa0-46cc-accc-f1e3cbd2bb45" />
+
   <pre style="background:#fafafa; padding:12px; border-radius:6px; border:1px solid #eee;">
 project/
 │
