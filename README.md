@@ -1,5 +1,7 @@
 # <div style="padding:12px; background:#1e1e1e; color:#fff; border-radius:8px;">VYSHYVANKA AI Assistant — Project Overview</div>
 
+<img width="1536" height="1024" alt="0" src="https://github.com/user-attachments/assets/c45fa7eb-474d-4a11-afde-57410eaf8ed0" />
+
 <div style="padding:12px; border:1px solid #ddd; border-radius:6px;">
 The VYSHYVANKA AI Assistant is a production‑ready conversational system designed to support customers of the VYSHYVANKA embroidered clothing store.  
 The project integrates a Telegram bot, Google Sheets logging, Gemini 2.5 Flash LLM, and a modular Python backend.  
